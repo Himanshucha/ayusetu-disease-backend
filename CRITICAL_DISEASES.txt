@@ -1,0 +1,171 @@
+abdominal aortic aneurysm
+abscess of the lung
+acute glaucoma
+acute kidney injury
+acute pancreatitis
+acute respiratory distress syndrome (ards)
+adrenal cancer
+alcoholic liver disease
+alzheimer disease
+amyotrophic lateral sclerosis (als)
+angina
+aortic valve disease
+appendicitis
+arrhythmia
+ascending cholangitis
+atrial fibrillation
+atrial flutter
+bladder cancer
+bone cancer
+brain cancer
+breast cancer
+burn
+carbon monoxide poisoning
+cardiac arrest
+cardiomyopathy
+cellulitis or abscess of mouth
+central atherosclerosis
+central retinal artery or vein occlusion
+cerebral edema
+cervical cancer
+chlamydia
+cholecystitis
+cirrhosis
+colorectal cancer
+concussion
+congenital heart defect
+coronary atherosclerosis
+crushing injury
+deep vein thrombosis (dvt)
+dengue fever
+diabetic ketoacidosis
+dislocation of the ankle
+dislocation of the elbow
+dislocation of the finger
+dislocation of the foot
+dislocation of the hip
+dislocation of the knee
+dislocation of the patella
+dislocation of the shoulder
+dislocation of the vertebra
+dislocation of the wrist
+drug poisoning due to medication
+ectopic pregnancy
+encephalitis
+endocarditis
+endometrial cancer
+endophthalmitis
+envenomation from spider or animal bite
+epidural hemorrhage
+epilepsy
+esophageal cancer
+esophageal varices
+fracture of the ankle
+fracture of the arm
+fracture of the facial bones
+fracture of the finger
+fracture of the foot
+fracture of the hand
+fracture of the jaw
+fracture of the leg
+fracture of the neck
+fracture of the patella
+fracture of the pelvis
+fracture of the rib
+fracture of the shoulder
+fracture of the skull
+fracture of the vertebra
+frostbite
+gas gangrene
+gastrointestinal hemorrhage
+gonorrhea
+head and neck cancer
+head injury
+heart attack
+heart block
+heart contusion
+heart failure
+heat stroke
+hepatic encephalopathy
+hepatitis due to a toxin
+human immunodeficiency virus infection (hiv)
+hyperosmotic hyperketotic state
+hypertensive heart disease
+hypertrophic obstructive cardiomyopathy (hocm)
+injury to internal organ
+injury to the abdomen
+injury to the spinal cord
+intestinal cancer
+intestinal obstruction
+intracerebral hemorrhage
+intracranial abscess
+intracranial hemorrhage
+intussusception
+ischemia of the bowel
+ischemic heart disease
+kaposi sarcoma
+kidney cancer
+kidney failure
+leukemia
+liver cancer
+lung cancer
+lymphoma
+malaria
+malignant hypertension
+melanoma
+meningitis
+metastatic cancer
+multiple myeloma
+myocarditis
+necrotizing fasciitis
+open wound due to trauma
+open wound of the abdomen
+open wound of the chest
+open wound of the eye
+open wound of the head
+open wound of the neck
+osteomyelitis
+ovarian cancer
+ovarian torsion
+pancreatic cancer
+pericarditis
+peritonitis
+placenta previa
+placental abruption
+pneumonia
+pneumothorax
+poisoning due to analgesics
+poisoning due to anticonvulsants
+poisoning due to antidepressants
+poisoning due to antihypertensives
+poisoning due to antimicrobial drugs
+poisoning due to antipsychotics
+poisoning due to ethylene glycol
+poisoning due to gas
+poisoning due to opioids
+poisoning due to sedatives
+prostate cancer
+pulmonary embolism
+pulmonary hypertension
+retinal detachment
+rhabdomyolysis
+rocky mountain spotted fever
+schizophrenia
+sepsis
+septic arthritis
+skin cancer
+soft tissue sarcoma
+stomach cancer
+stroke
+subarachnoid hemorrhage
+subdural hemorrhage
+syphilis
+testicular cancer
+testicular torsion
+thoracic aortic aneurysm
+transient ischemic attack
+tuberculosis
+typhoid fever
+uterine cancer
+volvulus
+vulvar cancer
